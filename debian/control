@@ -1,0 +1,12 @@
+Source: ros-foxy-popf
+Section: misc
+Priority: optional
+Maintainer: Francisco Martin <fmrico@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), bison, coinor-libcbc-dev, coinor-libcgl-dev, coinor-libclp-dev, coinor-libcoinutils-dev, flex, ros-foxy-ament-cmake, ros-foxy-rclcpp, ros-foxy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-popf
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, bison, coinor-libcbc-dev, coinor-libcgl-dev, coinor-libclp-dev, coinor-libcoinutils-dev, flex, ros-foxy-rclcpp, ros-foxy-ros-workspace
+Description: The POPF package
