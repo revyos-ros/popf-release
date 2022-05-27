@@ -1,3 +1,26 @@
+## popf (humble) - 0.0.14-1
+
+The packages in the `popf` repository were released into the `humble` distro by running `/usr/bin/bloom-release popf --rosdistro humble` on `Fri, 27 May 2022 07:48:44 -0000`
+
+The `popf` package was released.
+
+Version of package(s) in repository `popf`:
+
+- upstream repository: https://github.com/fmrico/popf.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.14-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## popf (galactic) - 0.0.13-1
 
 The packages in the `popf` repository were released into the `galactic` distro by running `/usr/bin/bloom-release popf --rosdistro galactic` on `Sat, 03 Jul 2021 17:05:02 -0000`
