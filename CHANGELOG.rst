@@ -2,6 +2,11 @@
 Changelog for package popf
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.14 (2022-05-27)
+-------------------
+* Checking null problem components
+* Contributors: Francisco Martín Rico
+
 0.0.13 (2021-07-03)
 -------------------
 
