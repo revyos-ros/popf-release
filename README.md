@@ -1,3 +1,26 @@
+## popf (jazzy) - 0.0.17-1
+
+The packages in the `popf` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy popf --override-release-repository-push-url git@github.com:revyos-ros/popf-release.git` on `Thu, 19 Dec 2024 06:48:41 -0000`
+
+The `popf` package was released.
+
+Version of package(s) in repository `popf`:
+
+- upstream repository: https://github.com/fmrico/popf.git
+- release repository: https://github.com/revyos-ros/popf-release.git
+- rosdistro version: `0.0.17-1`
+- old version: `null`
+- new version: `0.0.17-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## popf (humble) - 0.0.14-1
 
 The packages in the `popf` repository were released into the `humble` distro by running `/usr/bin/bloom-release popf --rosdistro humble` on `Fri, 27 May 2022 07:48:44 -0000`
